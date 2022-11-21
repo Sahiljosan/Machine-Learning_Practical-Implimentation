@@ -1,8 +1,7 @@
 ## Random forrest on wine quality data 
 (Class taken by sunny on 13.11.2022)
 - 
-<img src="url.gif" alt="Alt text that describes the graphic" title="Title text" />
-
+https://youtu.be/tHuKLalQinM
 
 ## Class_Random_Forest_sudh.ipynb
 Class taken by sudhanshu old recordings
