@@ -1,7 +1,16 @@
 ## Random forrest on wine quality data 
 (Class taken by sunny on 13.11.2022)
-- 
-https://youtu.be/tHuKLalQinM
+- Decision tree Algorithm
+- Accuracy before hyperparameter tunning
+- Hyper_Parameter tunning
+- Find the best_params_
+- Accuracy after hyper-parameter tunning
+- Random Forrest Algorithm
+- Bagging Classifier (Basic)
+- Assignment Given
+
+
+
 
 ## Class_Random_Forest_sudh.ipynb
 Class taken by sudhanshu old recordings
