@@ -1,10 +1,7 @@
 ## Random forrest on wine quality data 
 (Class taken by sunny on 13.11.2022)
 - 
-<div class="alert alert-block alert-info">
-<b>Tip:</b> Use blue boxes (alert-info) for tips and notes. 
-If it’s a note, you don’t have to include the word “Note”.
-</div>
+<img src="url.gif" alt="Alt text that describes the graphic" title="Title text" />
 
 
 ## Class_Random_Forest_sudh.ipynb
@@ -12,8 +9,8 @@ Class taken by sudhanshu old recordings
 Topics Covered:
 - Seperate dependent and independent features
 - Train_test_split
-- Bagging Classifier
-      - Bagging classifier using decision tree
+- Bagging Classifier</br>
+      - Bagging classifier using decision tree</br>
       - Bagging classifier using KNeightborsClassifier (KNN)
 - RandomForrestClassifier
 - Plot RandomForest with 5 decision tree in it
