@@ -15,7 +15,6 @@
 	- Random Forest Classifier
 	- Hyper-parameter tunning on Random Forest Classifier
 	- Bagging Classifier using SVC
-	- Random Forest Classifier
 	- Voting Classifier using Logistic Regression , Random forest classifier, GuassianNB
 	- Extra Tree Classifier
 	- Hyper-parameter tunning on Extra Tree Classifier
