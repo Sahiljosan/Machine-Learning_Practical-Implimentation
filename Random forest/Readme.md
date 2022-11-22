@@ -1,3 +1,35 @@
+## Random_forest_on_Power_Consumption
+### Task Peformed:
+1. Load Data
+2. Exploratory data analysis
+3. Check and remove any special character
+4. Handle the null Values
+5. Graphical Analysis
+6. Check and Handle the outliers
+7. Train Test Split
+8. Model building for :
+	- Linear Regression
+	- Ridge Regression
+	- Lasso Regression
+	- Support Vector Regression
+	- Decision Tree Regressor
+	- Random Forest Regressor
+	- Bagging Regressor
+9. check for all models:
+	- mean_squared_error
+	- mean_absolute_error
+	- r2_score
+	- Adjusted r2_score
+10. Hyper-Parameter tuning using RandomSearchCV on:
+	- Random Forest Regessor
+	- Bagging Regressor
+11. Summary
+12. Store the best model in pickle file
+
+
+
+**************************************************************************************
+
 ## Assignment_Random_forest_class_Census_income
 ### Task Performed:
 1. Data Ingestion
