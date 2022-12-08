@@ -1,4 +1,6 @@
-# SVC on Adult Census Income
+# SVC on Adult Census Income 
+BY Sahil Josan
+[Project File](https://github.com/Sahiljosan/Machine-Learning/blob/main/SVM%20-%20Support%20Vector%20Machine/SVC%20on%20Adult%20Census%20Income%20Dataset/SVC%20on%20Adult%20Census%20Income%20Dataset.ipynb)
 ![](https://savology.com/wp-content/uploads/2020/06/The-Ultimate-Income-Guide-Types-of-Income-Savology.png)
 
 ## <font color=darkmagenta>Problem Statement<font>
