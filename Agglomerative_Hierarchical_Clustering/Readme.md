@@ -1,5 +1,5 @@
 # Agglomerative_Hierarchical_Clustering
-
+![](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47z96pi67b1n29nl4tm6u6yb6ftb867sw8wi4wpy2s&rid=giphy.gif&ct=g)
 ### What is Clustering??
 Clustering is a technique that groups similar objects such that the objects in the same group are more similar to each other than the objects in the other groups. The group of similar objects is called a Cluster.
 ![](https://miro.medium.com/max/561/0*ff7kw5DRQbs_uixR.jpg)
