@@ -1,4 +1,4 @@
-### Overview
+### Overview [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/sahil-josan-a1256622b_%3F-%3F%3F%3F%3F%3F-%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F-%3F%3F%3F-activity-7012824778528944129-WOGw?utm_source=share&utm_medium=member_desktop)
 Customer Segmentation is one the most important applications of unsupervised learning. Using clustering techniques, companies can identify the several segments of customers allowing them to target the potential user base. In this machine learning project, we will make use of [K-means clustering](https://data-flair.training/blogs/k-means-clustering-tutorial/) which is the essential algorithm for clustering unlabeled dataset. Before ahead in this project, learn what actually customer segmentation is.<br>
 ![seg](https://user-images.githubusercontent.com/90209933/147927776-948a9af0-18bb-49ac-bbc0-30efd2790649.png)
 
