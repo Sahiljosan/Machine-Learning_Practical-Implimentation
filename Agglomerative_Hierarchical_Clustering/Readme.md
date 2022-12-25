@@ -1,4 +1,5 @@
 # Agglomerative_Hierarchical_Clustering
+[Explanation video](https://youtu.be/Ka5i9TVUT-E)
 
 ### What is Clustering??
 Clustering is a technique that groups similar objects such that the objects in the same group are more similar to each other than the objects in the other groups. The group of similar objects is called a Cluster.
