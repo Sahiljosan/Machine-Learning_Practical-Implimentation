@@ -24,7 +24,7 @@ NBS works only on the bass theorem. Let's see what the bass theorem is.
   - We have been given that if the event has happened or the event is true, then we have to calculate the probability of Hypothesis on this eve
   - Means the chances of happening H when the event E is happened.
 
-`P(H):` It is said `priori (A prior probability)`, Probability of H before E is happen.
+`P(H):` It is said `priori (A prior probability)`, Probability of H before E is happen.<br>
 `P(H/E):` `Posterior probability`, Probability of E  after event E is true.
 
 
