@@ -1,6 +1,6 @@
 # Naive Bayes Classifier
 - It is supervised learning algorithm used for classification based on Bayes' Theorem 
-- NBC is not just an algorithm, but a collection of many algorithms that work on the same concept, the Bayes' Theorem
+- NBC is not just an algorithm, but a collection of many algorithms that work on the same concept, the Bayes' Theorem <br><br>
 ![](https://i.imgur.com/CLYHQ8e.jpg)
 
 ## Industrial Use of Naive Bayes Classifier
