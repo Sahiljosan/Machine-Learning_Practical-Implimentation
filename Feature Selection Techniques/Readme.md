@@ -1,2 +1,2 @@
 # Feature Selection Techniques 
-1. Dropping Constant Features using Variance Threshold 
+1. Dropping Constant Features using Variance Threshold [Link](https://github.com/Sahiljosan/Machine-Learning_Practical-Implimentation/blob/main/Feature%20Selection%20Techniques/1.%20Feature%20Selection-Dropping%20Constant%20features.ipynb)
